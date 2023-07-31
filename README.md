@@ -1,2 +1,2 @@
 # belajar-github
-update
+update main
